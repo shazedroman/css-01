@@ -1,0 +1,87 @@
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: skyblue;
+}
+.box1{
+	width: 200pt;
+	height: 100px;
+	background-color: salmon;
+}
+.box2{
+	width: 30em;
+	height: 100px;
+	background-color: yellowgreen;
+}
+.box3{
+	width: 30rem;
+	height: 100;
+	background-color: yellow;
+}
+.box4{
+	width: 30%;
+	height: 100px;
+	background-color: red;
+}
+.gray{
+width: 100px;
+height: 100px;
+padding: 20px;
+border:10px solid black ;
+margin: 50px;
+background-color: gray;
+}
+.yellow{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+
+}
+.header{
+	height: 100px;
+	background-color: darkred;
+}
+.wrapper{
+overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 40%;
+    height: 200px;
+    background-color: yellow;
+}
+.contact{
+	float: right;
+	width: 60%;
+    height: 200px;
+    background-color: green;
+}
+.container{
+	overflow: hidden;
+}
+.darkblue{float: left;
+	width: 25%;
+	height: 100px;
+	background-color: darkblue;
+}
+.salmon{float: left;
+	width: 25%;
+	height: 100px;
+	background-color: salmon;
+}
+.pink{float: left;
+	width: 25%;
+	height: 100px;
+	background-color: pink;
+}
+.orange{float: left;
+	width: 25%;
+	height: 100px;
+	background-color: orange;
+}
+
+
+.footer{
+	height:100px;
+	background-color:black ;
+}
